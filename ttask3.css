@@ -1,0 +1,52 @@
+table{
+	margin-top: 25px;
+	text-align:left;
+	border: 20px;
+	border-color: solid black;
+	border-collapse: collapse;
+	color:black;
+	text-size:25px;
+	background:orange;
+	width:700px;
+}
+
+#list td{
+	padding: 15px;
+	color:solidblack;
+	border: 2px;
+	border-style: solid;
+	border-color:black;
+	backgrond:white;
+}
+#btn_a td input{
+	margin-top: 10%;
+	padding: 15px;
+	border: none;
+	border-radius: 15px;
+	cursor: pointer;
+	outline: none;
+	background:green;
+	color: rgb(0, 0, 0);
+	text-transform: capitalize;
+
+}
+#btn_a td input:hover{
+	background:red;
+  }
+
+#list th{
+	padding: 20px;
+	border: 2px;
+	border-style: solid;
+	border-color:black;
+	background:lightpink;
+	color: black;
+}
+
+body{
+	
+	color:red;
+	background:#1e3f66;
+	fontstyle:
+
+}
